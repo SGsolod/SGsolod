@@ -15,3 +15,4 @@
 ### Contact
 [![Telegramm](https://img.shields.io/badge/-telegramm-585858?style=for-the-badge&logo=telegram)](https://t.me/solodovnikov_sergei)
 [![Email](https://img.shields.io/badge/-email-585858?style=for-the-badge&logo=Gmail)](https://sergeisolodovnikov0@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-585858?style=for-the-badge&logo=whatsapp&logoColor=25D366)](https://wa.me/79034589610)
