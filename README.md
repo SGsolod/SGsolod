@@ -4,10 +4,14 @@
 
 Виды работ
 
-Инструменты с чем работал
+### Languages and Tools
 ![SQL](https://img.shields.io/badge/-SQL-585858?style=for-the-badge&logo=MySQL)
 ![Postman](https://img.shields.io/badge/-Postman-585858?style=for-the-badge&logo=postman)
 ![IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-585858?style=for-the-badge&logo=intellij-idea)
 ![VScode](https://img.shields.io/badge/-VS_Code-585858?style=for-the-badge&logo=visual-studio&logoColor=00a8f3)
 ![Selenium](https://img.shields.io/badge/-Selenium-585858?style=for-the-badge&logo=selenium)
 ![Git](https://img.shields.io/badge/-Git_Bash-585858?style=for-the-badge&logo=git)
+
+### Contact
+[![Telegramm](https://img.shields.io/badge/-telegramm-585858?style=for-the-badge&logo=telegram)](https://t.me/solodovnikov_sergei)
+[![Email](https://img.shields.io/badge/-email-585858?style=for-the-badge&logo=Gmail)](https://e-mailer.link/100193131872)
