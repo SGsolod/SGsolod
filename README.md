@@ -14,4 +14,4 @@
 
 ### Contact
 [![Telegramm](https://img.shields.io/badge/-telegramm-585858?style=for-the-badge&logo=telegram)](https://t.me/solodovnikov_sergei)
-[![Email](https://img.shields.io/badge/-email-585858?style=for-the-badge&logo=Gmail)](https://e-mailer.link/100193131872)
+[![Email](https://img.shields.io/badge/-email-585858?style=for-the-badge&logo=Gmail)](https://sergeisolodovnikov0@gmail.com)
