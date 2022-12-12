@@ -4,7 +4,8 @@
 
 ### Portfolio
 ____________________
-+ #### [<span>Test case</span>](https://github.com/SGsolod/Test_case/tree/development/test_case)
++ #### [<span>Авто тест </span>](https://github.com/SGsolod/Test_case/tree/development/test_case)проверки кликабельности логотипа при переходе по ссылкам в хедере
++  #### Набор [<span>тест-кейсов</span>](https://docs.google.com/spreadsheets/d/1k-e2zd94e3SZ2Sq9xl-DKrYpEqjww0PnxmFy9qTvlck/edit#gid=0) для проверки страницы с формой заявки на оформление банковской карты
 
 ### Languages and Tools
 _____________________
